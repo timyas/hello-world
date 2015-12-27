@@ -2,4 +2,6 @@
 =====================
 
 Hi humans
-I'd like to test my new gitHub repo.
+Just another test lesson of my git repo.
+
+
